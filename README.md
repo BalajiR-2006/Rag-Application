@@ -10,10 +10,10 @@ This is a **Retrieval-Augmented Generation (RAG) based chatbot** that allows use
 
 ## 🎨 Application Screenshots
 ### **1️⃣ Uploading and Processing PDFs**
-![Uploading PDFs](./mnt/data/image1.png)
+![Uploading PDFs](Screenshot%202025-03-06%20172649.png)
 
 ### **2️⃣ Asking Questions from the PDF**
-![Asking Questions](./mnt/data/image2.png)
+![Asking Questions](Screenshot%202025-03-06%20172606.png)
 
 ---
 
