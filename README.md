@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 This is a **Retrieval-Augmented Generation (RAG) based chatbot** that allows users to **ask questions** about uploaded **PDF documents**. The application:
-- Extracts text from PDFs 💑
+- Extracts text from PDFs 📝
 - Splits text into manageable chunks 🔍
 - Creates vector embeddings using Google's Generative AI 🧠
 - Stores embeddings in FAISS for efficient retrieval ⚡
