@@ -1,4 +1,3 @@
-# Rag-Application
 # 📄 Chat with PDF 🤖 - RAG Application
 
 ## 🚀 Overview
