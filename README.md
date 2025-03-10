@@ -7,13 +7,13 @@ This is a **Retrieval-Augmented Generation (RAG) based chatbot** that allows use
 - Creates vector embeddings using Google's Generative AI 🧠
 - Stores embeddings in FAISS for efficient retrieval ⚡
 - Uses a **Mistral model** for answering user queries intelligently 🤖
-
+- 
 ## 🎨 Application Screenshots
 ### **1️⃣ Uploading and Processing PDFs**
-![Uploading PDFs](Screenshot%202025-03-06%20172649.png)
+![Uploading PDFs](assets/image1.png)
 
 ### **2️⃣ Asking Questions from the PDF**
-![Asking Questions](Screenshot%202025-03-06%20172606.png)
+![Asking Questions](assets/image2.png)
 
 ---
 
